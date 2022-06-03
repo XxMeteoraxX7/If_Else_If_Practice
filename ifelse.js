@@ -18,14 +18,14 @@ else
 
 
 // if (condition) {
-//     one or more statements, if only one no statement curly brackets needed
+//     one or more statements, if only one statement no curly brackets needed
 // }
 // else if (anotherCondition) {
-//     one or more statements, if only one no statement curly brackets needed
+//     one or more statements, if only one statement no curly brackets needed
 // }
 // else if (yetAnotherCondition) {
-//     one or more statements, if only one no statement curly brackets needed
+//     one or more statements, if only one statement no curly brackets needed
 // }
 // else {
-//     one or more statements, if only one no statement curly brackets needed
+//     one or more statements, if only one statement no curly brackets needed
 // }
